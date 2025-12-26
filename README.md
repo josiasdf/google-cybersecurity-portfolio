@@ -7,7 +7,7 @@ Projetos e Laboratórios (Google Cybersecurity Certificate)
  Módulo 4: Linux e SQL
 Foco em manipulação de sistema operacional e segurança de banco de dados.
 
-[Análise de Permissões no Linux](link-aqui)**: Automação de verificação de permissões de arquivos sensíveis usando Bash.
+[Análise de Permissões no Linux](Analise-permissao-linux.md)**: Automação de verificação de permissões de arquivos sensíveis usando Bash.
 [Filtros de Segurança em SQL](analise-seguranca-sql.md)**: Identificação de tentativas de login falhas e análise de logs via queries SQL.
 
 ---
