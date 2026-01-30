@@ -1,35 +1,30 @@
-Portfólio de Cibersegurança 🛡️
+Portfólio de Engenharia DevSecOps 🛡️
+Bem-vindo! Este espaço documenta minha evolução técnica na interseção entre o desenvolvimento de software (ADS) e a segurança cibernética. Meu foco é aplicar automação e lógica de programação para construir ambientes digitais resilientes e seguros.
 
-Bem-vindo ao meu portfólio! Aqui documento minha jornada de transição de **ADS para Cibersegurança**, aplicando conhecimentos de programação e lógica em cenários de defesa cibernética.
+🚀 Jornada de Especialização
+Formação: Análise e Desenvolvimento de Sistemas (Penúltimo Semestre).
 
-Sobre a Certificação
-**Curso:** Google Cybersecurity Professional Certificate
-**Plataforma:** Coursera
-**Status:** Módulos 1 a 4 concluídos (Fase de Ferramentas Técnicas)
-**Duração Estimada do Curso:** 180+ horas / 6 meses
+Foco Atual: Especialização Profissional em Cibersegurança (Google/Coursera) e preparação para a certificação CompTIA Security+.
 
----
+Objetivo: Integrar segurança em todas as etapas do ciclo de vida de desenvolvimento (SDLC).
 
-📂 Projetos e Aprendizado por Módulo
+📂 Roadmap de Aprendizado e Projetos
+🔹 Fundamentos, GRC e Redes (Módulos 1 a 3)
+Consolidação da base estratégica para a tomada de decisão técnica:
 
-🔹 Módulos 1 a 3: Fundamentos, Riscos e Redes
-Nesta fase inicial, consolidei a base teórica essencial para a segurança da informação:
-**Fundamentos:** História da segurança, domínios CISSP, ética e tipos de ataques comuns.
-**Gestão de Riscos (GRC):** Aplicação do **NIST Cybersecurity Framework**, auditorias e conformidade.
-**Segurança de Redes:** Arquitetura de redes, modelo OSI, protocolos TCP/IP e defesa de perímetro.
+Gestão de Riscos: Aplicação prática do NIST Cybersecurity Framework (CSF) para auditorias e análise de postura de segurança.
 
-🐧 Módulo 4: Linux e SQL
-Foco prático em manipulação de sistema operacional (Hardening) e investigação em banco de dados.
+Defesa de Redes: Estudo aprofundado do modelo OSI e protocolos TCP/IP para proteção de perímetros e segmentação de ativos.
 
-**[Análise de Permissões no Linux](Analise-permissao-linux.md)**: Automação de verificação de permissões de arquivos sensíveis usando Bash.
-**[Filtros de Segurança em SQL](analise-seguranca-sql.md)**: Identificação de tentativas de login falhas e análise de logs via queries no SQL Server.
+🐧 Linux, SQL e Infraestrutura (Módulo 4)
+Foco em Hardening (endurecimento de sistemas) e análise de dados para segurança:
 
----
+Hardening Linux: Gerenciamento avançado de permissões de usuários e automação de auditoria de arquivos sensíveis via terminal.
 
-🛠️ Tech Stack & Habilidades
-**Linguagens:** Python (ADS), SQL, Bash.
-**Sistemas:** Linux (Ubuntu), Windows, SQL Server.
-**Conceitos:** NIST Framework, SIEM, IDS/IPS, Análise de Logs.
+SQL para Investigação: Criação de queries para análise de logs, identificação de acessos suspeitos e monitoramento de integridade de bancos de dados.
 
----
-*Este repositório é mantido por [Josiel](https://github.com/josiasdf) - Estudante de ADS & Analista de Cibersegurança em formação.*
+Categoria,Tecnologias
+Linguagens, Python (Foco em Automação), SQL, Bash Scripting.
+Sistemas, Linux (Ubuntu/Debian), Windows Server.
+Segurança, NIST Framework, SIEM, Análise de Logs, Controles de Acesso (IAM).
+Desenvolvimento, Lógica de Programação, Arquitetura de Sistemas (ADS).
