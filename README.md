@@ -1,5 +1,7 @@
 Portfólio de Engenharia DevSecOps 🛡️
-Bem-vindo! Este espaço documenta minha evolução técnica na interseção entre o desenvolvimento de software (ADS) e a segurança cibernética. Meu foco é aplicar automação e lógica de programação para construir ambientes digitais resilientes e seguros.
+
+Bem-vindo! 
+Este espaço documenta minha evolução técnica na interseção entre o desenvolvimento de software (ADS) e a segurança cibernética. Meu foco é aplicar automação e lógica de programação para construir ambientes digitais resilientes e seguros.
 
 🚀 Jornada de Especialização
 Formação: Análise e Desenvolvimento de Sistemas (Penúltimo Semestre).
